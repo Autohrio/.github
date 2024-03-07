@@ -22,3 +22,6 @@ This tool aims to eliminate traditional HR management within organizations, prov
 > _"Real-time access to HR resources and support"_
 
 > _"Empowerment to voice concerns and suggestions without hesitation"_
+
+
+<img src="https://i.imgflip.com/8ibt5h.jpg" title="made at imgflip.com"/>
