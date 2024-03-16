@@ -2,7 +2,6 @@
 
 This tool aims to eliminate traditional HR management within organizations, providing employees with seamless and transparent communication, bypassing slow processes for enhanced efficiency.
 
-
 > _"Instant responses from HR, no more delays"_
 
 > _"Rapid feedback turnaround time"_
@@ -23,5 +22,6 @@ This tool aims to eliminate traditional HR management within organizations, prov
 
 > _"Empowerment to voice concerns and suggestions without hesitation"_
 
+> _"No more recruiter ghosting."_
 
 <img src="https://i.imgflip.com/8ibt5h.jpg" title="made at imgflip.com"/>
