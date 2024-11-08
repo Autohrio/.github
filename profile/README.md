@@ -24,4 +24,4 @@ This tool aims to eliminate traditional HR management within organizations, prov
 
 > _"No more recruiter ghosting."_
 
-<img src="https://i.imgflip.com/8ibt5h.jpg" title="made at imgflip.com"/>
+ <!-- <img src="https://i.imgflip.com/8ibt5h.jpg" title="made at imgflip.com"/>  -->
